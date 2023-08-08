@@ -1,0 +1,7 @@
+go 1.20
+
+use (
+	./016-variables-zero-val-blank-identifier
+	./018-printf-decimal-hex
+	./031-scope
+)
