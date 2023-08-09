@@ -5,8 +5,8 @@ package main
 // of this file
 
 import (
+	"031-scope/furtherexplored"
 	"fmt"
-	// "031-scope/furtherexplored"
 )
 
 // x is in "package block" scope
@@ -40,9 +40,9 @@ func main() {
 	// package block x is still the same
 	printMe()
 
-	// furtherexplored.Fascinating()
+	furtherexplored.Fascinating()
 
-	if z:=53; z>50{
+	if z := 53; z > 50 {
 		fmt.Println(z)
 	}
 	// you can't access z here
