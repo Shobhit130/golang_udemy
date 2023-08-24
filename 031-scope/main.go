@@ -5,8 +5,8 @@ package main
 // of this file
 
 import (
-	"031-scope/furtherexplored"
 	"fmt"
+	"mymodule/031-scope/furtherexplored"
 )
 
 // x is in "package block" scope

@@ -11,6 +11,9 @@ func main() {
 	s2, s3 := foo3("Shobhit", 22)
 
 	fmt.Println(s2, s3)
+
+	s := foo4([]int{1,2,3,4,5})
+	fmt.Println(s)
 }
 
 // no params,no returns
@@ -34,4 +37,13 @@ func foo3(name string, age int) (string, int) {
 	s1 := "I am " + name
 	a := age * 7
 	return s1, a
+}
+
+//named returns
+func foo4(ii []int)(total int){
+	total = 0
+	for _,v := range(ii){
+		total += v
+	}
+	return
 }

@@ -2,3 +2,7 @@ github.com/Shobhit130/dog v0.0.0-20230809055821-3092e70eb337 h1:OMTiFbHSH+ged8d1
 github.com/Shobhit130/dog v0.0.0-20230809055821-3092e70eb337/go.mod h1:OMX55bcajN8G+6e0v4mbCQ3PkvnWMeFvKWNozCjipwY=
 github.com/Shobhit130/puppy v1.2.0 h1:xKNsRZgbdsl0fCOIc11Vx58PesfsEbFg+R7ALTV/DeM=
 github.com/Shobhit130/puppy v1.2.0/go.mod h1:aHbW+cah9s+Ww41svrqr558KWfCeMoxTPWEORLxlsJg=
+golang.org/x/crypto v0.12.0 h1:tFM/ta59kqch6LlvYnPa0yx5a83cL2nHflFhYKvv9Yk=
+golang.org/x/crypto v0.12.0/go.mod h1:NF0Gs7EO5K4qLn+Ylc+fih8BSTeIjAP05siRnAh98yw=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb h1:mIKbk8weKhSeLH2GmUTrvx8CjkyJmnU1wFmg59CUjFA=
+golang.org/x/exp v0.0.0-20230811145659-89c5cff77bcb/go.mod h1:FXUEEKJgO7OQYeo8N01OfiKP8RXMtf6e8aTskBGqWdc=
